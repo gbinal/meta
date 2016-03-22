@@ -4,9 +4,6 @@
 
 | State | Are we there yet?  | 
 |---|---|
-|   |   |
-
-
 | Alabama  |   |
 | Alaska  |   |
 | Arizona  | X  |
