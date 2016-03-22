@@ -1,6 +1,7 @@
 
 *Goal*:  Have 18F-ers based in all 50 states and each territory.  
 
+*Status*:
 
 | State | Are we there yet?  | 
 |---|---|
