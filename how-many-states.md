@@ -21,14 +21,14 @@
 | Illinois  | X  |
 | Indiana  |   |
 | Iowa  |   |
-| Kansas  |   |
+| Kansas  | X |
 | Kentucky  |   |
 | Louisiana  |   |
 | Maine  |   |
 | Maryland  |  X |
 | Massachusetts  | X  |
 | Michigan  |   |
-| Minnesota  |   |
+| Minnesota  |X |
 | Mississippi  |  X |
 | Missouri  | X  |
 | Montana  |   |
