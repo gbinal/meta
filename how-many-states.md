@@ -55,4 +55,4 @@
 | Washington  | X  |
 | West Virginia  |   |
 | Wisconsin  |   |
-| Wyoming |   |
+| Wyoming | X |
