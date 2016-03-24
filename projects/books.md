@@ -3,6 +3,7 @@
 * _Data Wrangling with Python: Tips and Tools to Make Your Life Easier_ - Jackie Kazil
 * _Developing a Backbone.js Edge_ - Aiden Feldman
 * _Macromedia Shockwave for Director User's Guide_ - Sasha Magee
+* _Shockwave Power Solutions_ - Sasha Magee
 * _Macromedia Dreamweaver MX Advanced for Windows and Macintosh: Visual QuickPro Guide_ - Sasha Magee
 * _Misinformation on the Internet_ - Chris Goranson
 * _You're Not Pretty Enough: Extraordinary stories from an (un) ordinary life_ - Jen Tress 
