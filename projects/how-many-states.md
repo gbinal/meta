@@ -1,9 +1,9 @@
 
-*Goal*:  Have 18F-ers based in all 50 states and each territory.  
+*Goal*:  Have 18F staffers based in all 50 states and each territory.  
 
 *Status*:
 
-| State | Are we there yet?  | 
+| State | Are we there yet?  |
 |---|---|
 | Alabama  |   |
 | Alaska  |   |
@@ -34,7 +34,7 @@
 | Montana  |   |
 | Nebraska  |   |
 | Nevada  |   |
-| New Hampshire |   | 
+| New Hampshire |   |
 | New Jersey  |  X |
 | New Mexico  |   |
 | New York  |  X |
