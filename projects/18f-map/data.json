@@ -1,0 +1,414 @@
+[
+  {
+    "name": "AK",
+    "display": "Alaska",
+    "selected": false,
+    "count": 0,
+    "x": 0,
+    "y": 1
+  },
+  {
+    "name": "ME",
+    "display": "Maine",
+    "selected": false,
+    "count": 0,
+    "x": 11,
+    "y": 1
+  },
+  {
+    "name": "VT",
+    "display": "Vt.",
+    "selected": false,
+    "count": 0,
+    "x": 10,
+    "y": 2
+  },
+  {
+    "name": "NH",
+    "display": "N.H.",
+    "selected": false,
+    "count": 0,
+    "x": 11,
+    "y": 2
+  },
+  {
+    "name": "WA",
+    "display": "Wash.",
+    "selected": true,
+    "count": 1,
+    "x": 1,
+    "y": 3
+  },
+  {
+    "name": "ID",
+    "display": "Idaho",
+    "selected": false,
+    "count": 0,
+    "x": 2,
+    "y": 3
+  },
+  {
+    "name": "MT",
+    "display": "Mont.",
+    "selected": false,
+    "count": 0,
+    "x": 3,
+    "y": 3
+  },
+  {
+    "name": "ND",
+    "display": "N.D.",
+    "selected": false,
+    "count": 0,
+    "x": 4,
+    "y": 3
+  },
+  {
+    "name": "MN",
+    "display": "Minn.",
+    "selected": true,
+    "count": 1,
+    "x": 5,
+    "y": 3
+  },
+  {
+    "name": "IL",
+    "display": "Ill.",
+    "selected": true,
+    "count": 14,
+    "office": true,
+    "x": 6,
+    "y": 3
+  },
+  {
+    "name": "WI",
+    "display": "Wis.",
+    "selected": false,
+    "count": 0,
+    "x": 7,
+    "y": 3
+  },
+  {
+    "name": "MI",
+    "display": "Mich.",
+    "selected": false,
+    "count": 0,
+    "x": 8,
+    "y": 3
+  },
+  {
+    "name": "NY",
+    "display": "N.Y.",
+    "selected": true,
+    "count": 13,
+    "office": true,
+    "x": 9,
+    "y": 3
+  },
+  {
+    "name": "RI",
+    "display": "R.I.",
+    "selected": false,
+    "count": 0,
+    "x": 10,
+    "y": 3
+  },
+  {
+    "name": "MA",
+    "display": "Mass.",
+    "selected": true,
+    "count": 2,
+    "x": 11,
+    "y": 3
+  },
+  {
+    "name": "OR",
+    "display": "Ore.",
+    "selected": true,
+    "count": 1,
+    "x": 1,
+    "y": 4
+  },
+  {
+    "name": "NV",
+    "display": "Nev.",
+    "selected": false,
+    "count": 0,
+    "x": 2,
+    "y": 4
+  },
+  {
+    "name": "WY",
+    "display": "Wyo.",
+    "selected": true,
+    "count": 1,
+    "x": 3,
+    "y": 4
+  },
+  {
+    "name": "SD",
+    "display": "S.D.",
+    "selected": false,
+    "count": 0,
+    "x": 4,
+    "y": 4
+  },
+  {
+    "name": "IA",
+    "display": "Iowa",
+    "selected": false,
+    "count": 0,
+    "x": 5,
+    "y": 4
+  },
+  {
+    "name": "IN",
+    "display": "Ind.",
+    "selected": false,
+    "count": 0,
+    "x": 6,
+    "y": 4
+  },
+  {
+    "name": "OH",
+    "display": "Ohio",
+    "selected": true,
+    "count": 2,
+    "x": 7,
+    "y": 4
+  },
+  {
+    "name": "PA",
+    "display": "Penn.",
+    "selected": true,
+    "count": 2,
+    "x": 8,
+    "y": 4
+  },
+  {
+    "name": "NJ",
+    "display": "N.J.",
+    "selected": true,
+    "count": 1,
+    "x": 9,
+    "y": 4
+  },
+  {
+    "name": "CT",
+    "display": "Conn.",
+    "selected": false,
+    "count": 0,
+    "x": 10,
+    "y": 4
+  },
+  {
+    "name": "CA",
+    "display": "Calif.",
+    "selected": true,
+    "count": 37,
+    "office": true,
+    "x": 1,
+    "y": 5
+  },
+  {
+    "name": "UT",
+    "display": "Utah",
+    "selected": false,
+    "count": 0,
+    "x": 2,
+    "y": 5
+  },
+  {
+    "name": "CO",
+    "display": "Colo.",
+    "selected": true,
+    "count": 1,
+    "x": 3,
+    "y": 5
+  },
+  {
+    "name": "NE",
+    "display": "Neb.",
+    "selected": false,
+    "count": 0,
+    "x": 4,
+    "y": 5
+  },
+  {
+    "name": "MO",
+    "display": "Mo.",
+    "selected": true,
+    "count": 1,
+    "x": 5,
+    "y": 5
+  },
+  {
+    "name": "KY",
+    "display": "Ky.",
+    "selected": false,
+    "count": 0,
+    "x": 6,
+    "y": 5
+  },
+  {
+    "name": "WV",
+    "display": "W.Va.",
+    "selected": false,
+    "count": 0,
+    "x": 7,
+    "y": 5
+  },
+  {
+    "name": "VA",
+    "display": "Va.",
+    "selected": true,
+    "count": 4,
+    "x": 8,
+    "y": 5
+  },
+  {
+    "name": "MD",
+    "display": "Md.",
+    "selected": true,
+    "count": 1,
+    "x": 9,
+    "y": 5
+  },
+  {
+    "name": "DE",
+    "display": "Del.",
+    "selected": false,
+    "count": 0,
+    "x": 10,
+    "y": 5
+  },
+  {
+    "name": "AZ",
+    "display": "Ariz.",
+    "selected": true,
+    "count": 1,
+    "x": 2,
+    "y": 6
+  },
+  {
+    "name": "NM",
+    "display": "N.M.",
+    "selected": false,
+    "count": 0,
+    "x": 3,
+    "y": 6
+  },
+  {
+    "name": "KS",
+    "display": "Kan.",
+    "selected": true,
+    "count": 1,
+    "x": 4,
+    "y": 6
+  },
+  {
+    "name": "AR",
+    "display": "Ark.",
+    "selected": false,
+    "count": 0,
+    "x": 5,
+    "y": 6
+  },
+  {
+    "name": "TN",
+    "display": "Tenn.",
+    "selected": false,
+    "count": 0,
+    "x": 6,
+    "y": 6
+  },
+  {
+    "name": "NC",
+    "display": "N.C.",
+    "selected": true,
+    "count": 3,
+    "x": 7,
+    "y": 6
+  },
+  {
+    "name": "SC",
+    "display": "S.C.",
+    "selected": false,
+    "count": 0,
+    "x": 8,
+    "y": 6
+  },
+  {
+    "name": "DC",
+    "display": "D.C.",
+    "selected": true,
+    "count": 77,
+    "office": true,
+    "x": 9,
+    "y": 6
+  },
+  {
+    "name": "OK",
+    "display": "Okla.",
+    "selected": false,
+    "count": 0,
+    "x": 4,
+    "y": 7
+  },
+  {
+    "name": "LA",
+    "display": "La.",
+    "selected": false,
+    "count": 0,
+    "x": 5,
+    "y": 7
+  },
+  {
+    "name": "MS",
+    "display": "Miss.",
+    "selected": true,
+    "count": 1,
+    "x": 6,
+    "y": 7
+  },
+  {
+    "name": "AL",
+    "display": "Ala.",
+    "selected": false,
+    "count": 0,
+    "x": 7,
+    "y": 7
+  },
+  {
+    "name": "GA",
+    "display": "Ga.",
+    "selected": true,
+    "count": 1,
+    "x": 8,
+    "y": 7
+  },
+  {
+    "name": "HI",
+    "display": "Hawaii",
+    "selected": false,
+    "count": 0,
+    "x": 0,
+    "y": 8
+  },
+  {
+    "name": "TX",
+    "display": "Texas",
+    "selected": true,
+    "count": 1,
+    "x": 4,
+    "y": 8
+  },
+  {
+    "name": "FL",
+    "display": "Fla.",
+    "selected": false,
+    "count": 0,
+    "x": 9,
+    "y": 8
+  }
+]
