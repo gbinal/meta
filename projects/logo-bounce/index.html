@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>18F Logo Bounce</title>
+    <style>
+    * { margin:0; padding:0; }
+    html, body { width:100%; height:100%; }
+    canvas { display:block; background-color: #0074D9; }
+    </style>
+  </head>
+  <body>
+    <canvas id="canvas" width="400" height="300"></canvas>
+    <div style="display:none;"><img id="logo" src="logo.png"></div>
+    <script>
+    var canvas = document.getElementById("canvas");
+    var ctx = canvas.getContext("2d");
+    var img = document.getElementById("logo");
+    var img_w = 100; // square
+
+    // make canvas full screen
+    canvas.width = window.innerWidth;
+    canvas.height = window.innerHeight;
+
+    // starting position
+    var x = canvas.width / 2 - img_w / 2;
+    var y = canvas.height / 2 - img_w / 2;
+
+    // movement speed
+    var dx = 2, dy = -2;
+
+    function draw() {
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+        ctx.drawImage(img, x, y, 100, 100);
+        if (x + dx > (canvas.width - img_w) || x + dx < 0) dx = -dx;
+        if (y + dy > (canvas.height - img_w) || y + dy < 0) dy = -dy;        
+        x += dx;
+        y += dy;
+    }
+
+    setInterval(draw, 10);
+    </script>
+  </body>
+</html>
