@@ -6,3 +6,5 @@ Here is a partial list of 18F policies and standards.  Feel free to add any I'm 
 * [API Standards](https://github.com/18F/api-standards)
 * [Analytics Standards](https://github.com/18F/analytics-standards)
 * [Code of Conduct](https://github.com/18F/code-of-conduct/blob/master/code-of-conduct.md)
+* [Digital Playbook](https://playbook.cio.gov/)
+* [HTTPS Policy](https://github.com/18F/https)
