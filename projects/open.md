@@ -7,6 +7,7 @@ In 2009, the White House kicked off the [Open Government Initiative](https://www
 |---|---|
 |  Read the 18F Blog | [Read](https://18f.gsa.gov/blog/) | [Subscribe via Email](https://ifttt.com/recipes/214709-a-new-18f-blog-post-email-me-a-link-to-go-read-it-right-away) | [Subscribe via RSS](https://18f.gsa.gov/feed.xml)  |
 | Sign up for the bi-weekly newsletter  |  [Signup Page](https://18f.gsa.gov/#newsletter)  |
+| Read past newsletters  |  [18F Newsletter Archives](http://us9.campaign-archive1.com/home/?u=6f1977de9eff4c384dc8d6527&id=cbc418738b)  | 
 | See how the team operates  | [18F Handbook](https://handbook.18f.gov/)  |
 | See how the team works  |  [18F Guides](https://pages.18f.gov/guides/) |
 | See the team's policies and standards | [Listed here](https://github.com/18F/meta/blob/18f-pages/projects/list-of-policies.md) |
