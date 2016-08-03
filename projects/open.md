@@ -15,7 +15,10 @@ In 2009, the White House kicked off the [Open Government Initiative](https://www
 | See 18F project edits | [18F project edits](https://github.com/search?utf8=%E2%9C%93&q=is%3Apr+user%3A18F&type=Issues&ref=searchresults) |  
 | See Who is on the Team | [18F team page](https://18f.gsa.gov/team/)  |
 | Filter the team by location, skills, etc. | [18F Team Browser](https://pages.18f.gov/team-browser/) |
-| Follow 18F on Twitter | https://twitter.com/18f |
+| Follow 18F on Twitter | [18F on Twitter](https://twitter.com/18f) |
+
+
+_Have more ideas?  Feel free to commit to this file or add to [this issue](https://github.com/18F/meta/issues/6)._
 
 
 
