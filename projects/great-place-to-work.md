@@ -7,6 +7,12 @@
 * Recent iPhone or Android phone for your work device
 * Good tethering plan 
 * BYOD
+* Quality Accessories 
+  * Mice
+  * Keyboards
+  * Monitors 
+* Odds and Ends 
+  * Microphones, fans, adaptors
 * Sandboxes 
 * Good cloud 
 * Modern tools 
@@ -17,6 +23,7 @@
 * Admin rights 
 
 
+
 #### Communications 
 
 * Transparency
@@ -24,7 +31,7 @@
   * Meeting Notes
   * AMAs
   * Support different communication preferences 
-  * 
+  * Site Analytics 
   * Operations 
     * Staff List 
     * 
@@ -35,10 +42,16 @@
     * Tock 
     * 
 
+* Townhalls 
 * IRL 
+* Weekly team meetings 
+* Chapter/sub-chapter meetings 
 * Questions gathered beforehand/notes taken 
 * Visibility 
   * okay to lurk in other slack channels 
+  * 
+  
+* Feedback Mechanisms 
   * 
 
 
@@ -49,6 +62,7 @@
 * Emergency Sitters 
 * Retirement Programs 
 * Credit Union 
+* Health miscellany (e.g. flu shots, office nurse) 
 
 
 #### Work 
@@ -62,8 +76,8 @@
 * Vehicle for Culture Change 
 * Cross-Government Access 
 * Guilds 
-
-#### Resources 
+* Open source (so others can benefit from them) 
+* Analytics for everything
 
 
 #### Culture 
@@ -81,6 +95,8 @@
 * Open 
 * Decentralized 
   * Remote friendly 
+  * Predominantly not in DC
+  * Default to collaborative 
 * Public Service 
 * Automation 
 * Agile 
@@ -91,6 +107,7 @@
   * Retros 
 * Hacking welcome 
 * User-Centered 
+* Citizen-centric 
 * Trust 
 * Applaud each other 
 * Empathy
@@ -98,6 +115,7 @@
 * Diversity
   * Code of Conduct 
 * We're all learning
+* Things are hard.  There should be a distributed support system for everything.  
 * Everyone is welcomed to be curious
 * We have team wide principles  
 * Welcome new people 
@@ -120,8 +138,14 @@
   * Operations 
 * Internal support when you have to use an external system 
 * Leave donations for parents 
+* Open Data Policy implementation 
 * Documentation 
   * Handbook 
+* Standards 
+  * Open source
+  * https
+  * analytics 
+
 
 #### Career Path
 * Can change career parths 
@@ -129,17 +153,24 @@
 * We support you leaving when its time 
 * Promoting from within
 * Positions should be open to anyone to apply for
-
+* Grow through your projects 
 
 #### Operations 
 * Quality Hiring 
 * Benefits support 
+* IT support 
+* Travel support 
 * Onboarding Experience 
   * 18F Classes 
   * 
 * Active Comms
   * Internal
   * External 
+    * Public Speaking 
+    * Active Blogging 
+    * Active Social Media 
+    * Public Slack Channels 
+    * Active Newsletter 
 * Supportive legal counsel 
 * Requests are usually processed quickly
 * There's a sense of accountability from support functions 
