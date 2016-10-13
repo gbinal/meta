@@ -24,6 +24,8 @@
 
 
 
+
+
 #### Communications 
 
 * Transparency
@@ -92,6 +94,9 @@
 * Quality work 
   * We should be able to rely on our teammates to be high 
 * Don't overwork 
+  * support people taking vacations 
+  * push important conversations to during office hours 
+  * don't bother people when they are on vacation 
 * Open 
 * Decentralized 
   * Remote friendly 
