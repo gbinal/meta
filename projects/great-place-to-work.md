@@ -1,7 +1,6 @@
 ## What makes 18F a great place to work?  
 
 
-
 #### Tools
 * Macs for your work computer
 * Recent iPhone or Android phone for your work device
@@ -22,10 +21,6 @@
   * Zoom 
 * Admin rights 
 
-
-
-
-
 #### Communications 
 
 * Transparency
@@ -36,14 +31,11 @@
   * Site Analytics 
   * Operations 
     * Staff List 
-    * 
   * Our Work 
     * Visibility into what other teams, chapters, projects are doing 
   * Who works on what 
   * How we operate 
     * Tock 
-    * 
-
 * Townhalls 
 * IRL 
 * Weekly team meetings 
@@ -51,13 +43,7 @@
 * Questions gathered beforehand/notes taken 
 * Visibility 
   * okay to lurk in other slack channels 
-  * 
-  
 * Feedback Mechanisms 
-  * 
-
-
-
 
 #### Benefits 
 * Healthcare 
@@ -65,7 +51,6 @@
 * Retirement Programs 
 * Credit Union 
 * Health miscellany (e.g. flu shots, office nurse) 
-
 
 #### Work 
 * Limited Scope 
@@ -80,7 +65,6 @@
 * Guilds 
 * Open source (so others can benefit from them) 
 * Analytics for everything
-
 
 #### Culture 
 
@@ -167,7 +151,6 @@
 * Travel support 
 * Onboarding Experience 
   * 18F Classes 
-  * 
 * Active Comms
   * Internal
   * External 
@@ -182,13 +165,11 @@
 * Work Groups 
 * Easier timekeeping (tock)
 * Open office space 
-* 
 
 #### Informal Activities 
 * West Wing tours 
 * Irregular perks like foreign dignitary greetings 
 * Guest speakers 
-
 * Solid happy hour scene
 * Third Thursday cross-governmental happy hour 
 * Cowork Across America 
@@ -196,6 +177,5 @@
 * DC office 
    * Snack Drawer 
    * Water Club 
-   
 * Other offices 
-  * 
+  * Potlucks 
