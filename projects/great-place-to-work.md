@@ -115,6 +115,9 @@
   * Try to minimize frustrating, inefficient systems 
 * Servant leadership
   * Leadership focuses on supporting, empowering, protecting staff from distractions so that they can focus on work 
+* Brand
+  * Stickers
+  * T-Shirts
 
 #### Logistics 
 * Robust telework policy 
@@ -168,14 +171,15 @@
 
 #### Informal Activities 
 * West Wing tours 
-* Irregular perks like foreign dignitary greetings 
 * Guest speakers 
-* Solid happy hour scene
 * Third Thursday cross-governmental happy hour 
 * Cowork Across America 
-* Fun events outside of work 
 * DC office 
    * Snack Drawer 
    * Water Club 
+   * Solid happy hour scene
+   * Holiday Party
+   * Irregular perks like foreign dignitary greetings 
+   * Fun events outside of work 
 * Other offices 
   * Potlucks 
