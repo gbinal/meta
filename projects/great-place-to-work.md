@@ -36,7 +36,8 @@
   * Who works on what 
   * How we operate 
     * Tock 
-* Townhalls 
+* Townhalls
+* AMAs
 * IRL 
 * Weekly team meetings 
 * Chapter/sub-chapter meetings 
@@ -44,6 +45,7 @@
 * Visibility 
   * okay to lurk in other slack channels 
 * Feedback Mechanisms 
+* Practices such as readily sharing team-wide
 
 #### Benefits 
 * Healthcare 
@@ -156,6 +158,8 @@
   * 18F Classes 
 * Active Comms
   * Internal
+    * Internal Newsletter
+    * Devoted Internal Comms
   * External 
     * Public Speaking 
     * Active Blogging 
