@@ -42,7 +42,8 @@
 * Weekly team meetings 
 * Chapter/sub-chapter meetings 
 * Questions gathered beforehand/notes taken 
-* Visibility 
+* Visibility
+  * #18f-management channel
   * okay to lurk in other slack channels 
 * Feedback Mechanisms 
 * Practices such as readily sharing team-wide
