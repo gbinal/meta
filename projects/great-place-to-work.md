@@ -173,6 +173,11 @@
 * Work Groups 
 * Easier timekeeping (tock)
 * Open office space 
+* Small logical things that make for better offices
+  * lost and found 
+  * monthly tidying up 
+  * wifi posted on the walls 
+  * guest wifi slackbot response
 
 #### Informal Activities 
 * West Wing tours 
