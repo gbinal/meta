@@ -9,3 +9,4 @@
 * [18f.gsa.gov/open material](https://github.com/18F/meta/blob/18f-pages/projects/open.md)
 * [List of team policies and standards](https://github.com/18F/meta/blob/18f-pages/projects/list-of-policies.md)
 * [What makes 18F a great place to work](https://github.com/18F/meta/blob/18f-pages/projects/great-place-to-work.md)
+* [What has 18F shipped?](https://github.com/18F/meta/blob/18f-pages/projects/work.md)
