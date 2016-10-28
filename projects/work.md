@@ -27,7 +27,7 @@ The unofficial motto of 18F is 'Delivery is the Strategy'.  Much of 18F's work i
 * [Api.data.gov](https://api.data.gov)
 * [Federalist](https://federalist.18f.gov/)
 
-### Resources Available for Resources
+### Resources
 * [Method Cards](https://methods.18f.gov/)
 * [Agile Principles & Practices](https://pages.18f.gov/agile/)
 * [Labor Category Descriptions for Agile Procurements](https://pages.18f.gov/agile-labor-categories/)
@@ -58,11 +58,11 @@ The unofficial motto of 18F is 'Delivery is the Strategy'.  Much of 18F's work i
 * [DevOps Assessment Guide](https://pages.18f.gov/devops-assessment/)
 * [FISMA Ready](https://github.com/fisma-ready)
 
-### Examples of Project Re-Use
-* [Re-Use of Analytics.USA.gov](https://github.com/18f/analytics.usa.gov#analyticsusagov)
-* [Re-Use of Pulse](https://github.com/18f/pulse#the-pulse-of-the-federal-gov-webspace)
+### Examples of Project Reuse
+* [Reuse of Analytics.USA.gov](https://github.com/18f/analytics.usa.gov#analyticsusagov)
+* [Reuse of Pulse](https://github.com/18f/pulse#the-pulse-of-the-federal-gov-webspace)
 
-### More Open Source Projects Available for Re-Use
+### Further Open Source Projects Available for Reuse
 
 ##### If you help your team work together
 
