@@ -32,6 +32,7 @@ The unofficial motto of 18F is 'Delivery is the Strategy'.  Much of 18F's work i
 * [Agile Principles & Practices](https://pages.18f.gov/agile/)
 * [Labor Category Descriptions for Agile Procurements](https://pages.18f.gov/agile-labor-categories/)
 * [Modular contracting and agile development](https://modularcontracting.18f.gov/)
+* [Digital Acquisition Playbook](https://pages.18f.gov/digital-acquisition-playbook/)
 * [Open Source Policy](https://github.com/18F/open-source-policy)
 * [Open Source Program](https://pages.18f.gov/open-source-program/)
 * [Open Source Guide](https://pages.18f.gov/open-source-guide/)
@@ -55,14 +56,74 @@ The unofficial motto of 18F is 'Delivery is the Strategy'.  Much of 18F's work i
 * [Automated Testing Playbook](https://pages.18f.gov/automated-testing-playbook/)
 * [Testing Cookbook](https://pages.18f.gov/testing-cookbook/)
 * [DevOps Assessment Guide](https://pages.18f.gov/devops-assessment/)
+* [FISMA Ready](https://github.com/fisma-ready)
 
 ### Examples of Project Re-Use
 * [Re-Use of Analytics.USA.gov](https://github.com/18f/analytics.usa.gov#analyticsusagov)
 * [Re-Use of Pulse](https://github.com/18f/pulse#the-pulse-of-the-federal-gov-webspace)
 
 ### More Open Source Projects Available for Re-Use
+
+##### If you help your team work together
+
+* [Checklistomania](https://github.com/18F/checklistomania)
+* [Open Opportunities](https://github.com/18F/openopps-platform)
+* [Tock](https://github.com/18F/tock)
+
+##### If you build digital services for government
+
+* [Compliance Masonry](https://github.com/opencontrol/compliance-masonry)
+* [Draft U.S. Web Design Standards](https://github.com/18F/web-design-standards)
+* [eRegulations](https://eregs.github.io/)
+* [FISMA Ready](https://github.com/fisma-ready)
+* [Samwise](https://github.com/18F/samwise)
+
+##### If you work with lots of data
+
+* [AutoAPI](https://github.com/18F/autoapi)
+* [Document Processing Toolkit](https://github.com/18F/doc_processing_toolkit)
+* [gapps-download](https://github.com/18F/gapps-download)
+* [Open Data Maker](https://github.com/18F/open-data-maker)
+* [rdbms-subsetter](https://github.com/18F/rdbms-subsetter)
+
+##### If you make websites that communicate lots of information
+
+* [Accordion](https://github.com/18F/accordion)
+* [Glossary](https://github.com/18F/glossary)
+* [Linkify citations](https://github.com/18F/linkify-citations)
+* [Private Eye](https://github.com/18F/private-eye)
+
+##### If you use [Slack](https://slack.com/)
+
+* [Coffeemate](https://github.com/18F/coffeemate)
+* [Dolores Landingham Bot](https://github.com/18F/dolores-landingham-bot)
+* [hubot-slack-github-issues](https://github.com/18F/hubot-slack-github-issues)
+* [Slack Emoji Search](https://github.com/18F/emoji_search)
+* [Chat](https://github.com/18F/chat)
+
+##### If you use [Jekyll](http://jekyllrb.com/)
+
+* [Jekyll Frontmatter Tests](https://github.com/18F/jekyll_frontmatter_tests)
+* [Jekyll-get](https://github.com/18F/jekyll-get)
+* [Jekyll Pages API](https://github.com/18F/jekyll_pages_api)
+* [jekyll\_pages\_api\_search](https://github.com/18F/jekyll_pages_api_search)
+* [Pages](https://github.com/18F/pages)
 * [Guides Template](https://pages.18f.gov/guides-template/)
-* [Private Eye](https://pages.18f.gov/private-eye/)
+
+##### If you use [Cloud Foundry](https://www.cloudfoundry.org/)
+
+* [BOSH Release for New Relic server monitor](https://github.com/cloudfoundry-community/newrelic-boshrelease)
+* [cg-cron](https://github.com/18F/cg-cron)
+* [Cloud Foundry Deck](https://github.com/18F/cg-deck)
+* [Cloud Foundry Notifications for Hubot](https://github.com/18F/hubot-cf-notifications)
+* [Cloud Foundry RDS Service Broker](https://github.com/cloudfoundry-community/rds-broker)
+
+##### If you want information about websites
+
+* [**domain-scan**](https://github.com/18F/domain-scan)
+* [**urlsize**](https://github.com/18F/urlsize)
+
+
 
 
 
@@ -78,6 +139,8 @@ Possibly to add:
 * https://labs.usa.gov/
 * https://pages.18f.gov/govconnect/
 * https://openbeta.usaspending.gov/index.html#active
+https://eregs.github.io/guidelines/
+
 
 * [Fugacious](https://fugacious.18f.gov/)
 * [Digital Playbook](https://playbook.cio.gov/)
