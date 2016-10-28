@@ -124,24 +124,3 @@ The unofficial motto of 18F is 'Delivery is the Strategy'.  Much of 18F's work i
 * [**urlsize**](https://github.com/18F/urlsize)
 
 
-
-
-
-
-=====================
-
-Possibly to add:  
-* https://openopps.digitalgov.gov/  
-* https://open.foia.gov/
-* https://fbopen.gsa.gov/
-* https://pages.18f.gov/ads-bpa/
-* https://climate-data-user-study.18f.gov/
-* https://labs.usa.gov/
-* https://pages.18f.gov/govconnect/
-* https://openbeta.usaspending.gov/index.html#active
-https://eregs.github.io/guidelines/
-
-
-* [Fugacious](https://fugacious.18f.gov/)
-* [Digital Playbook](https://playbook.cio.gov/)
-
