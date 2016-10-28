@@ -10,6 +10,7 @@ The unofficial motto of 18F is 'Delivery is the Strategy'.  Much of 18F's work i
 * [Communicart](https://cap.18f.gov/)
 * [MyRA](https://myra.gov/)
 * [NotAlone.gov](https://www.notalone.gov/)
+* [FBOpen](https://fbopen.gsa.gov/)
 * [Every Kid In A Park](https://www.everykidinapark.gov/)
 * [Extractive Industries Transparency Initiative](https://useiti.doi.gov/)
 * [MyUSCIS](https://my.uscis.gov/)
@@ -17,10 +18,14 @@ The unofficial motto of 18F is 'Delivery is the Strategy'.  Much of 18F's work i
 * [e-Manifest](https://e-manifest.cld.epa.gov/)
 * [Draft U.S. Web Design Standards](https://standards.usa.gov/)
 * [College Scorecard](https://collegescorecard.ed.gov/)
+* [Climate Data User Study](https://climate-data-user-study.18f.gov/)
+* [Federal Front Door](https://labs.usa.gov/)
 * [eRegulations - EPA](https://epa-notice.usa.gov/)
+* [Agile Delivery Services Blanket Purchase Agreement](https://pages.18f.gov/ads-bpa/)
 * [Discovery Market Research Tool](https://discovery.gsa.gov/)
 * [DATA Act Collaboration Space](http://fedspendingtransparency.github.io)
 * [HTTPS Policy Guidance](https://https.cio.gov/)
+
 
 ### Shared Services
 * [Cloud.gov](https://www.cloud.gov/)
@@ -45,6 +50,7 @@ The unofficial motto of 18F is 'Delivery is the Strategy'.  Much of 18F's work i
 * [Code of Conduct](https://github.com/18F/code-of-conduct/blob/master/code-of-conduct.md)
 * [HTTPS Policy](https://github.com/18F/https)
 * [Identity Playbook](https://pages.18f.gov/identity-playbook/)
+* [GovConnect](https://pages.18f.gov/govconnect/)
 * [18F Handbook](https://handbook.18f.gov/)
 * [Blogging Guide](https://pages.18f.gov/blogging-guide/)
 * [Content Guide](https://pages.18f.gov/content-guide/)
