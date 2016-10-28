@@ -1,5 +1,5 @@
 
-The unofficial motto of 18F is 'Delivery is the Strategy'.  Much of 18F's work is intangible, such as advising on contracts or recruitment as a service, but the below are some of the delivery projects we've shipped.  These are highlights - to find more, check out [GitHub.com/18F](https://github.com/18f).   
+The unofficial motto of 18F is 'Delivery is the Strategy'.  Much of 18F's work is intangible, such as advising on contracts or recruitment as a service, but the below are some delivery projects we've shipped and resources we've developed.  Hopefully, this helps share a bit about what the team does.  These are highlights - to find many more, check out [GitHub.com/18F](https://github.com/18f).   
 
 ### Projects Launched
 * [Beta.FEC.gov](https://beta.fec.gov/)
