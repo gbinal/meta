@@ -16,16 +16,19 @@ The unofficial motto of 18F is 'Delivery is the Strategy'.  A sizable amount of 
 * https://atf-eregs.18f.gov/
 * https://e-manifest.cld.epa.gov/
 * https://standards.usa.gov/
-
-
-
+* https://collegescorecard.ed.gov/
+* https://epa-notice.usa.gov/
+* https://discovery.gsa.gov/
+* http://fedspendingtransparency.github.io
 
 Possibly to add:  
 * https://openopps.digitalgov.gov/  
 * https://open.foia.gov/
 * https://fbopen.gsa.gov/
 * https://pages.18f.gov/ads-bpa/
-
+* https://climate-data-user-study.18f.gov/
+* https://labs.usa.gov/
+* https://pages.18f.gov/govconnect/
 
 
 ### Shared Services
@@ -34,7 +37,7 @@ Possibly to add:
 * https://federalist.18f.gov/
 
 
-### Resources
+### Resources Available for Others To Use
 * https://handbook.18f.gov/
 * https://methods.18f.gov/
 * https://fugacious.18f.gov/
@@ -47,6 +50,20 @@ Possibly to add:
 * https://modularcontracting.18f.gov/
 * https://18f.gsa.gov/code-of-conduct/
 * https://18f.gsa.gov/open-source-policy/
+https://pages.18f.gov/open-source-program/
+* https://pages.18f.gov/guides-template/
+* https://pages.18f.gov/blogging-guide/
+* https://pages.18f.gov/content-guide/
+* https://pages.18f.gov/open-source-guide/
+* https://pages.18f.gov/lean-product-design/
+* https://pages.18f.gov/grouplet-playbook/
+* https://pages.18f.gov/frontend/
+* https://pages.18f.gov/dev-environment/
+* https://pages.18f.gov/before-you-ship/
+* https://pages.18f.gov/automated-testing-playbook/
+* https://pages.18f.gov/testing-cookbook/
+* https://pages.18f.gov/accessibility/
+* https://pages.18f.gov/devops-assessment/
 
 
 * [Open Source Policy](https://github.com/18F/open-source-policy)
@@ -66,6 +83,15 @@ Possibly to add:
 
 
 ### Projects that have been re-used
+
+
+
+
+### Other Open Source Projects Available for Re-Use
+
+* https://pages.18f.gov/private-eye/
+
+
 
 
 
