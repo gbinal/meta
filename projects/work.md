@@ -126,8 +126,8 @@ The unofficial motto of 18F is 'Delivery is the Strategy'.  Much of 18F's work i
 
 ##### If you want information about websites
 
-* [**domain-scan**](https://github.com/18F/domain-scan)
-* [**urlsize**](https://github.com/18F/urlsize)
+* [domain-scan](https://github.com/18F/domain-scan)
+* [urlsize](https://github.com/18F/urlsize)
 
 ##### Other
 
