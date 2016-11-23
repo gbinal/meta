@@ -183,6 +183,7 @@
 * West Wing tours 
 * Guest speakers 
 * Third Thursday cross-governmental happy hour 
+* Virtual Happy Hours, Game Nights
 * Cowork Across America 
 * DC office 
    * Snack Drawer 
@@ -190,6 +191,6 @@
    * Solid happy hour scene
    * Holiday Party
    * Irregular perks like foreign dignitary greetings 
-   * Fun events outside of work 
+   * Fun events outside of work: happy hours, game nights, 
 * Other offices 
   * Potlucks 
