@@ -1,4 +1,4 @@
-## Books Written by 18F staffers 
+## Books Written by TTS staffers 
 
 * _Data Wrangling with Python: Tips and Tools to Make Your Life Easier_ - Jackie Kazil
 * _Developing a Backbone.js Edge_ - Aiden Feldman
