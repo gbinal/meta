@@ -15,3 +15,4 @@
 * _Observing the User Experience, Second Edition: A Practitioner's Guide to User Research_ - Liz Goodman
 * _Lightweight Django_ - Julia Elman
 * _Nicely Said: Writing for the Web with Style and Purpose (Voices That Matter)_ - Nicole Fenton
+* _Get Lucky: How to Put Planned Serendipity to Work for You and Your Business_ - Lane Becker
