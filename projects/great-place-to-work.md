@@ -144,6 +144,9 @@
 
 #### Career Path
 * Can change career parths 
+* Free Trainings made available by GSA
+  * Supervisor trainings
+  * Career coaching
 * Paid training 
 * We support you leaving when its time 
 * Promoting from within
