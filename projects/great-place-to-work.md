@@ -79,7 +79,7 @@
     * Coffee Bot 
   * Useful 
 * Quality work 
-  * We should be able to rely on our teammates to be high 
+  * We should be able to rely on our teammates to be high quality
 * Don't overwork 
   * support people taking vacations 
   * push important conversations to during office hours 
