@@ -68,7 +68,7 @@ The unofficial motto of 18F is 'Delivery is the Strategy'.  Much of 18F's work i
 ### Examples of Project Reuse
 * [Reuse of Analytics.USA.gov](https://github.com/18f/analytics.usa.gov#analyticsusagov)
 * [Reuse of Pulse](https://github.com/18f/pulse#the-pulse-of-the-federal-gov-webspace)
-* [Reuse of the draft US Web Design Standards](https://github.com/18F/web-design-standards/wiki/Websites-that-use-the-Draft-U.S.-Web-Design-Standards)
+* [Reuse of the draft US Web Design Standards](https://github.com/18F/web-design-standards/blob/develop/WHO_IS_USING_USWDS.md)
 
 ### Further Open Source Projects Available for Reuse
 
