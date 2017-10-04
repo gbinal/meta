@@ -20,7 +20,7 @@ _At the current rate of growth, we are hoping to have a team size greater than t
 
 ### May 2016
 
-[May offsite team photo](https://18f.gsa.gov/assets/blog/join-us/18F-IRL-2016.jpg)
+![May offsite team photo](https://user-images.githubusercontent.com/633088/31178116-18ddfdd4-a8e6-11e7-921d-04edec537161.jpg)
 
 
 
