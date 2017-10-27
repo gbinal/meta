@@ -1,6 +1,4 @@
-## Team Photos at the Allhands Offsites
-
-_At the current rate of growth, we are hoping to have a team size greater than the population of Des Moines by 2021._
+## Team Photos at the 18F and then TTS Allhands Offsites
 
 ### March 2014
 
@@ -22,5 +20,6 @@ _At the current rate of growth, we are hoping to have a team size greater than t
 
 ![May offsite team photo](https://user-images.githubusercontent.com/633088/31178116-18ddfdd4-a8e6-11e7-921d-04edec537161.jpg)
 
+### October 2017 
 
-
+![October offsite team photo](https://user-images.githubusercontent.com/633088/32120406-68e59df8-bb26-11e7-9030-e29a1ee31b62.jpg)
