@@ -73,8 +73,6 @@ In headquarters, there's a great artifact that represents who is on the team and
 
 
 
-~~~~~~~~~~~~~~~~~~~~~
-
   
 
 
