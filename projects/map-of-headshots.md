@@ -2,6 +2,11 @@
 In headquarters, there's a great artifact that represents who is on the team and where they are located.  It's been heartwarming to see the map get more crowded...
 
 
+### May 2014 
+
+![wall of headshots](https://cloud.githubusercontent.com/assets/633088/13960810/2ee00fa2-f030-11e5-8a29-27ffa9e8ad55.jpg)
+
+
 ### August 2014
 
 ![wall of headshots](https://cloud.githubusercontent.com/assets/633088/13962437/5585980a-f037-11e5-8abb-98300cb9e0b3.jpg)
