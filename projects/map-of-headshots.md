@@ -70,21 +70,46 @@ In headquarters, there's a great artifact that represents who is on the team and
 ![wall of headshots](https://cloud.githubusercontent.com/assets/633088/13960802/2ed98b32-f030-11e5-8bde-15a6cd4538f9.jpg)
 
 
+### April 2016 
+
+![Cg_iIiQWkAQm0AP](https://user-images.githubusercontent.com/633088/54139978-0ae1d200-43f9-11e9-8774-d6515c86f3ba.jpg)
 
 
+### June 2016 
 
-  
-
-
-![wall of headshots](https://cloud.githubusercontent.com/assets/633088/13960801/2ed98718-f030-11e5-9f46-b45f5332d53b.jpg)
+![IMG_20160628_171836](https://user-images.githubusercontent.com/633088/54140176-6e6bff80-43f9-11e9-9c30-1664f1d2c36b.jpg)
 
 
-   
+### October 2016
 
-![wall of headshots](https://cloud.githubusercontent.com/assets/633088/13960810/2ee00fa2-f030-11e5-8a29-27ffa9e8ad55.jpg)
-
-  
-![wall of headshots](https://cloud.githubusercontent.com/assets/633088/13960816/2ee784b2-f030-11e5-952e-b0c3ee18d4e0.jpg)
+![10-17 DC New Hire Map](https://user-images.githubusercontent.com/633088/54140150-5d22f300-43f9-11e9-83f1-76e082886823.JPG)
 
 
-  
+### May 2017
+
+![IMG_20170518_162305](https://user-images.githubusercontent.com/633088/54140105-47adc900-43f9-11e9-9368-5de961dfb074.jpg)
+
+
+### September 2017
+
+![IMG_20170920_171301](https://user-images.githubusercontent.com/633088/54139855-d241f880-43f8-11e9-9b81-507dd659d817.jpg)
+
+
+### December 2017
+
+![MVIMG_20171201_133902](https://user-images.githubusercontent.com/633088/54139808-bcccce80-43f8-11e9-9798-45c3eecf5cbb.jpg)
+
+
+### January 2019
+
+![IMG_20190208_142121](https://user-images.githubusercontent.com/633088/54139792-af174900-43f8-11e9-8b0f-4d6a13b732b0.jpg)
+
+
+### February 2019
+![IMG_20190208_162107](https://user-images.githubusercontent.com/633088/54139665-76776f80-43f8-11e9-9b86-4dc6f86bc647.jpg)
+
+
+### March 2019
+
+![IMG_20190308_165458](https://user-images.githubusercontent.com/633088/54139725-88591280-43f8-11e9-9171-e9dddde240de.jpg)
+ 
