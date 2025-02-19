@@ -23,3 +23,8 @@
 ### October 2017 
 
 ![October offsite team photo](https://user-images.githubusercontent.com/633088/32120406-68e59df8-bb26-11e7-9030-e29a1ee31b62.jpg)
+
+
+### September 2023 18F
+
+![18F-Group-Photo-2023-high-2](https://github.com/user-attachments/assets/62254ef5-6940-46f3-acd3-829c57eef648)
