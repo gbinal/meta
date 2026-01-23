@@ -1,5 +1,6 @@
-## Books Written by TTS staffers 
+## Books Written by TTS staffers and alumni
 
+* _The SpecOps Method_ - Mark Headd
 * _Data Wrangling with Python: Tips and Tools to Make Your Life Easier_ - Jackie Kazil
 * _Developing a Backbone.js Edge_ - Aiden Feldman
 * _Macromedia Shockwave for Director User's Guide_ - Sasha Magee
@@ -13,6 +14,7 @@
 * _Designing Connected Products: UX for the Consumer Internet of Things_ - Liz Goodman
 * _Speaker Camp: A Self-paced Workshop for Planning, Pitching, Preparing, and Presenting at Conferences (Voices That Matter)_ - Russ Unger
 * _Observing the User Experience, Second Edition: A Practitioner's Guide to User Research_ - Liz Goodman
+* _Business Efficiency for Dummies_ - Marina Martin
 * _Lightweight Django_ - Julia Elman
 * _Nicely Said: Writing for the Web with Style and Purpose (Voices That Matter)_ - Nicole Fenton
 * _Get Lucky: How to Put Planned Serendipity to Work for You and Your Business_ - Lane Becker
