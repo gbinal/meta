@@ -9,7 +9,7 @@ reorder alpha by last name
 * _Shockwave Power Solutions_ - Sasha Magee
 * _Macromedia Dreamweaver MX Advanced for Windows and Macintosh: Visual QuickPro Guide_ - Sasha Magee
 * _Misinformation on the Internet_ - Chris Goranson
-* Careers as a Webmaster - Chris Goranson
+* Careers as a Webmaster - Chris Goranson * 
 * _You're Not Pretty Enough: Extraordinary stories from an (un) ordinary life_ - Jen Tress * 
 * _Designing the Conversation: Techniques for Successful Facilitation (Voices That Matter)_ - Russ Unger and Brad Nunnally
 * _A Project Guide to UX Design_ - Russ Unger
