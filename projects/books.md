@@ -1,26 +1,34 @@
 ## Books Written by TTS staffers and alumni
 
-reorder alpha by last name 
+_[Alphabetical by last name, * indicates it is in the TTS Office Library in DC]_
 
+
+* _Get Lucky: How to Put Planned Serendipity to Work for You and Your Business_ - Lane Becker *
+* _Renewable Energy Roadmap_ - Lane Becker
+* _Lightweight Django_ - Julia Elman *
+* _Developing a Backbone.js Edge_ - Aiden Feldman
+* _Nicely Said: Writing for the Web with Style and Purpose (Voices That Matter)_ - Nicole Fenton *
+* _The Lotus Whisperer_ - Marina Fox *
+* _Planet Will_ - Marina Fox *
+* _Designing Connected Products: UX for the Consumer Internet of Things_ - Liz Goodman *
+* _Observing the User Experience, Second Edition: A Practitioner's Guide to User Research_ - Liz Goodman *
+ * [Others by Liz](https://www.goodreads.com/author/show/742010.Elizabeth_Goodman)
+* _A Civic Technologist's Practical Guide_ - Cyd Harrell *
+* _Continuous Delivery_ - Jez Humble *
+  * [Others by Jez](https://www.goodreads.com/jezhumble)
+* _Careers as a Webmaster_ - Chris Goranson *
+ * [Others by Chris](https://www.goodreads.com/author/show/458870.Christopher_D_Goranson)
 * _The SpecOps Method_ - Mark Headd *
 * _Data Wrangling with Python: Tips and Tools to Make Your Life Easier_ - Jackie Kazil * 
-* _Developing a Backbone.js Edge_ - Aiden Feldman
 * _Macromedia Shockwave for Director User's Guide_ - Sasha Magee
-* _Shockwave Power Solutions_ - Sasha Magee
-* _Macromedia Dreamweaver MX Advanced for Windows and Macintosh: Visual QuickPro Guide_ - Sasha Magee
-* _Misinformation on the Internet_ - Chris Goranson
-* Careers as a Webmaster - Chris Goranson * 
-* _You're Not Pretty Enough: Extraordinary stories from an (un) ordinary life_ - Jen Tress * 
-* _Designing the Conversation: Techniques for Successful Facilitation (Voices That Matter)_ - Russ Unger and Brad Nunnally
-* _A Project Guide to UX Design_ - Russ Unger
-* _A Project Guide to UX Design: For User Experience Designers in the Field or in the Making_ - Russ Unger
-* _Designing Connected Products: UX for the Consumer Internet of Things_ - Liz Goodman * 
-* _Speaker Camp: A Self-paced Workshop for Planning, Pitching, Preparing, and Presenting at Conferences (Voices That Matter)_ - Russ Unger
-* _Observing the User Experience, Second Edition: A Practitioner's Guide to User Research_ - Liz Goodman *
-* UX Research: Practical Techniques for Designing Better - Brad Nunnally *
+ * [Others by Sasha](https://www.goodreads.com/author/show/449549.Sasha_Magee)
 * _Business Efficiency for Dummies_ - Marina Martin *
-* Hacking Bureaucracy - Marina Nitze and Nick Sinai *
-* A Civic Technologist's Practical Guide - Cyd Harrell *
-* _Lightweight Django_ - Julia Elman *
-* _Nicely Said: Writing for the Web with Style and Purpose (Voices That Matter)_ - Nicole Fenton *
-* _Get Lucky: How to Put Planned Serendipity to Work for You and Your Business_ - Lane Becker *
+* _Hacking Bureaucracy_ - Marina Nitze and Nick Sinai *
+ * [Others by Marina](https://www.goodreads.com/author/show/22119600.Marina_Nitze) *
+* _UX Research: Practical Techniques for Designing Better_ - Brad Nunnally *
+ * [Others by Brad](https://www.goodreads.com/author/show/6624026.Brad_Nunnally) 
+* _You're Not Pretty Enough: Extraordinary stories from an (un) ordinary life_ - Jen Tress * 
+* _A Project Guide to UX Design_ - Russ Unger
+  * [Others by Russ](https://www.goodreads.com/author/show/1902209.Russ_Unger)
+* _Designing the Conversation: Techniques for Successful Facilitation (Voices That Matter)_ - Russ Unger and Brad Nunnally * 
+
