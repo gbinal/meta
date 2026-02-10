@@ -18,7 +18,7 @@ _[Alphabetical by last name, * indicates it is in the TTS Office Library in DC]_
 * _Continuous Delivery_ - Jez Humble *
   * [Others by Jez](https://www.goodreads.com/jezhumble)
 * _Careers as a Webmaster_ - Chris Goranson *
- * [Others by Chris](https://www.goodreads.com/author/show/458870.Christopher_D_Goranson)
+  * [Others by Chris](https://www.goodreads.com/author/show/458870.Christopher_D_Goranson)
 * _The SpecOps Method_ - Mark Headd *
 * _Data Wrangling with Python: Tips and Tools to Make Your Life Easier_ - Jackie Kazil * 
 * _Macromedia Shockwave for Director User's Guide_ - Sasha Magee
