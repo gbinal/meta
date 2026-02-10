@@ -34,4 +34,4 @@ _[Alphabetical by last name, * indicates it is in the TTS Office Library in DC]_
 * _A Project Guide to UX Design_ - Russ Unger
    * [Others by Russ](https://www.goodreads.com/author/show/1902209.Russ_Unger)
 * _Designing the Conversation: Techniques for Successful Facilitation (Voices That Matter)_ - Russ Unger and Brad Nunnally *
-* How Museums Tell Stories - Amelia Wong
+* _How Museums Tell Stories_ - Amelia Wong
