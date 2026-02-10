@@ -4,7 +4,7 @@ _[Alphabetical by last name, * indicates it is in the TTS Office Library in DC]_
 
 
 * _Get Lucky: How to Put Planned Serendipity to Work for You and Your Business_ - Lane Becker *
-* _Renewable Energy Roadmap_ - Lane Becker
+  * [Others by Lane](https://www.goodreads.com/author/show/5778775.Lane_Becker)
 * _Lightweight Django_ - Julia Elman *
 * _Developing a Backbone.js Edge_ - Aiden Feldman
 * _Nicely Said: Writing for the Web with Style and Purpose (Voices That Matter)_ - Nicole Fenton *
