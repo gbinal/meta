@@ -26,6 +26,8 @@ _[Alphabetical by last name, * indicates it is in the TTS Office Library in DC]_
 * _You Deserve a Tech Union_ - Ethan Marcotte
   * [Others from Ethan](https://www.goodreads.com/author/show/16360.Ethan_Marcotte)
 * _Business Efficiency for Dummies_ - Marina Martin *
+* _Google: The Missing Manual_ - Sarah Milstein
+  * [Others by Sarah](https://www.goodreads.com/author/show/341578.Sarah_Milstein)
 * _Hacking Bureaucracy_ - Marina Nitze and Nick Sinai *
   * [Others by Marina](https://www.goodreads.com/author/show/22119600.Marina_Nitze) *
 * _UX Research: Practical Techniques for Designing Better_ - Brad Nunnally *
